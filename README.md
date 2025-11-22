@@ -88,7 +88,7 @@ This project is based on standard data analysis and BI concepts:
 ## 👤 About the Author
 
 **Name:** Chandana M R  
-**Role:** MCA Student & Aspiring Data / MIS / Power BI Analyst  
+**Role:** MCA Graduate Aspiring Data / MIS / Power BI Analyst  
 **Location:** Bengaluru, India  
 
 This project is part of my learning and portfolio in data analysis and business intelligence.
